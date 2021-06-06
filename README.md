@@ -1,4 +1,3 @@
-# my Todo list 2
 ## My Todo list app 2
 
 - Function componets
