@@ -1,0 +1,32 @@
+.btn-group {
+    width: 70%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.btn-group .btn {
+    border-color: rgba(139, 69, 19, 0.5);
+    width: 100%;
+}
+
+.btn-group .btn-info {
+    background-color: chocolate;
+    border-color: chocolate;
+    box-shadow: none !important;
+}
+
+.btn-group .btn-info:active {
+    background-color: saddlebrown !important;
+    border-color: saddlebrown !important;
+    color: snow;
+}
+
+.btn-group .btn-outline-secondary:hover {
+    background-color: brown !important;
+    border-color: brown !important;
+    color: snow;
+}
+
+.btn-group .btn-outline-secondary:focus {
+    box-shadow: -1px -1px 10px 5px salmon !important;
+}

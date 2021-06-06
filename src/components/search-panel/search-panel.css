@@ -1,0 +1,9 @@
+input {
+    margin-right: 3px;
+}
+
+::placeholder {
+    color: #ffffff !important;
+    opacity: 0.8 !important;
+    /* color: rgba(109, 60, 60, 0.685) !important; */
+}

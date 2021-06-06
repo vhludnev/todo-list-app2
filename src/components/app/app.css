@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+}
+
+.todo-app {
+    padding-top: 30px;
+    margin: 2rem auto 0 auto;
+    max-width: 600px;
+}
+
+.todo-app .top-panel {
+    margin: 1rem 0;
+}
+
+.todo-app .date {
+    font-size: 1.1rem;
+}
+
+.todo-app h1 {
+    font-size: 2rem;
+    flex-grow: 1;
+    margin-top: 35px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.form-control {
+    background-color: #f8b05d;
+    border: 2px solid #ced4da;
+}
