@@ -1,6 +1,7 @@
 ## My Todo list app 2
 
-- Function componets
+- React
+- Function Components
 - Local Storage
 - Bootstrap
 - Font awesome
